@@ -1,1 +1,1 @@
-# pswd_strength_checker
+# Check your password strength with this code
